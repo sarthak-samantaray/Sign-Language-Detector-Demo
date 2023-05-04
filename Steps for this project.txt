@@ -1,0 +1,7 @@
+1. Clone the repo
+2. Collect images
+3. Setup labelImg
+4. Update labelmap
+5. Train
+6. Update checkpoint
+7. Detect
